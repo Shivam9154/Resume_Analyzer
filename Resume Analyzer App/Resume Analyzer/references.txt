@@ -1,0 +1,7 @@
+i)Pyresparser Documentation:
+        https://omkarpathak.in/pyresparser/
+ii)How to Write your own resume parser:
+        https://omkarpathak.in/2018/12/18/writing-your-own-resume-parser/
+iii)Streamlit Documentation:
+        https://docs.streamlit.io/
+        

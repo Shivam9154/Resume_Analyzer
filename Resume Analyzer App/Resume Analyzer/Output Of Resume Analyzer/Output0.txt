@@ -1,0 +1,15 @@
+For running the application,
+i)Install xampp in your system.
+ii)Install python in your system.
+iii)Enable apache and mysql on xampp.
+iv)Type in powershell streamlit run App.py
+
+Software requirements for Project:
+i)For designing Frontend:
+     HTML
+ii)Server:
+     XAMPP
+iii)Database:
+     MySQL
+iv)Backend and Programming languages:
+     Streamlit,Python
